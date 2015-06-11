@@ -12,3 +12,5 @@ yesod-devel/
 cabal.sandbox.config
 .DS_Store
 *.swp
+/azulit.sqlite3-shm
+/azulit.sqlite3-wal
